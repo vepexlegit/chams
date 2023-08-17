@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "de.vepexlegit.chams.mixins",
+  "refmap": "mixins.chams.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinRenderPlayer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
