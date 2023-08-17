@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chams",
+  "name": "Chams",
+  "description": "This mod helps to see players through walls",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vepexlegit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
