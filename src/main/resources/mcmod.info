@@ -1,8 +1,8 @@
 [
 {
-  "modid": "chams",
-  "name": "Chams",
-  "description": "This mod helps to see players through walls",
+  "modid": "chamsdebug",
+  "name": "ChamsDebug",
+  "description": "This mod is an addition to the main chams mod.\nThis add-on will help you turn chams on or off",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
